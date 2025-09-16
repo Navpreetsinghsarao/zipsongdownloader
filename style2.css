@@ -1,0 +1,157 @@
+h1.hh1{
+text-align:0px auto;
+width:100%;
+font-weight:bold;
+font-family:haettenschweiler,Georgia, Times, serif;
+font-size:200%;
+text-transform: uppercase;
+text-align:center;
+background-image :url("assests/head1.jpg");
+background-repeat:repeat-x;
+    color:white;
+    zindex: 10;
+}
+
+#div1{
+    background-color:#afa500;
+    width:100%;
+    font-size:140%;
+    height:100%;
+    text-align:center;
+    color:white;
+    
+    
+    
+}                        
+label.l1{
+
+color:white;
+text-color:white;
+margin:1%;
+border-color:violet;
+}
+h2.hh2{
+    text-align:center;
+    text-decoration:line-through;
+    font-family:Veranda,sans-serif;
+    font-size:200%;
+    font-weight:bold;
+    text-transform:uppercase;
+    line-height:1.4em;
+    text-shadow:1px 1px 0px #a2b1a2;
+    color:white;
+    
+    
+    
+}
+p.para1{
+
+color:#ffffff;
+padding:1% 1% 1% 1%;
+
+background-repeat:repeat-x;
+height:100%;
+width:100%;
+
+text-shadow:1px 1px 0px #d5ffdf;
+    
+
+font-style:italic;
+    border-color:#0003ff;
+
+
+
+
+    
+}
+body{background-color:black;
+    
+}
+h3{
+color:white; }
+blockquote{
+    
+    color:white;
+    text-shadow:1px 1px 0px #d5ffdf;
+    
+    font-style:italic;
+    border-color:#0003ff;
+    
+}
+p.para2{
+    color:white;
+    font-style:italic;
+    text-shadow:1px 1px 0px #d5ffdf;
+    
+}
+h3.head3{
+    text-align:center;
+    color:#ffdfaa;
+    font-size:200%;
+    text-decoration:blink;
+    text-shadow:1px 1px 1px #00eaff;
+}
+
+h4.head4{
+text-align:center;
+width:100%;
+text-shadow:3px 3px 1px #ffe795;
+
+color:#95ffcc;
+font-size:200%;
+
+}
+p.para3{
+    text-shadow: 1px 1px 0px #c4ff6a;
+    color:white;
+    font-style:bold;
+    
+}
+ul.ulll1{
+    color:white;
+    font-family: monospace;
+    text-transform:uppercase;
+    text-shadow:1px 1px 0px #ff95e7;
+ }   
+    
+ #image1{
+height:150ems;
+width:100%;}
+h5.head5{
+    color:white;
+    font-size:200%;
+    text-align:center;
+    text-decoration:linethrough;
+    font-family:  cursive;
+    text-shadow:1px 1px 0px #ffbfd5 ;
+    
+    
+}
+p6.para6{
+    color:white;
+    text-shadow:1px 1px 0px #ff7455;
+    font-family:fantasy;
+    
+}
+h6{color:#6a78ff;
+     text-shadow:1px 1px 1px #9bff6a;
+     text-decoration:underline;  
+     background-color:#f855ff;
+     text-align:center;
+     width:100%;
+     size:300%;
+     height:10ems;
+     font-family:monospace, verenda;
+     font-size:100%;
+}
+label.label1{
+    font-size:100%;
+    color:#ffffff;
+    background-color:#ffb5aa;
+    text-align:center;
+    
+}
+
+
+    
+
